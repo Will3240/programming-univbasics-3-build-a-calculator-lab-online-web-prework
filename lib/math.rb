@@ -18,7 +18,7 @@ num1*num2
 end
 
 def modulo(num1, num2)
-num1modulodividenum2
+num1modulo/num2
 binding.pry
 end
 
