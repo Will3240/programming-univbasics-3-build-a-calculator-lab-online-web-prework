@@ -19,6 +19,7 @@ end
 
 def modulo(num1, num2)
 num1 Math.sqrt.num2
+binding.pry
 end
 
 def square_root(num)
