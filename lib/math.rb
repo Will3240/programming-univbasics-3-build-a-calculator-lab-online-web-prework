@@ -1,5 +1,5 @@
-def addition(1+2)
-
+def addition(num1, num2)
+binding.pry
 end
 
 def subtraction(num1, num2)
