@@ -10,7 +10,7 @@ end
 
 def division(num1, num2)
 num1/num2
-binding.pry
+
 end
 
 def multiplication(num1, num2)
